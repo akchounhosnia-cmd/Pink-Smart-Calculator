@@ -45,3 +45,5 @@ streamlit run calculator.py
 - How CSS customizes and styles applications
 - How to connect frontend design with backend logic
 - How to upload and manage projects on GitHub
+
+https://github.com/akchounhosnia-cmd/Pink-Smart-Calculator/blob/c0984ec253bcd0b58b7ab72076608307f5ab4b84/Screenshot1-pagehome.png
