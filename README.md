@@ -1,1 +1,47 @@
-"# Pink-Smart-Calculator" 
+# Pink Smart Calculator
+
+
+A beautiful pink-themed calculator built using Python and Streamlit.
+
+## 📌 Description
+
+This project is a simple yet stylish calculator that performs basic arithmetic operations:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+It includes a modern pink UI with custom CSS styling.
+
+## 🛠 Technologies Used
+
+- Python
+- Streamlit
+- HTML
+- CSS
+
+
+## ✨ Features
+
+- Clean and decorative UI
+- Custom styled buttons
+- Result display box
+- Error handling (division by zero)
+- Responsive layout
+
+
+## 🚀 How to Run the Project
+
+1. Install Streamlit:
+pip install streamli
+
+2. Run the app:
+streamlit run calculator.py
+
+## 📚 What I Learned
+
+- How to build interactive apps using Streamlit
+- How Python handles logic and calculations
+- How CSS customizes and styles applications
+- How to connect frontend design with backend logic
+- How to upload and manage projects on GitHub
